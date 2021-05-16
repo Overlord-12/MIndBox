@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIndBox", "MIndBox\MIndBox.csproj", "{959F4337-A331-48A1-A58B-63226366E2C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestForCalcSquare", "UnitTestForCalcSquare\UnitTestForCalcSquare.csproj", "{EFD9848C-9105-43AE-9CCC-4F3BEE036B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{959F4337-A331-48A1-A58B-63226366E2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959F4337-A331-48A1-A58B-63226366E2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959F4337-A331-48A1-A58B-63226366E2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959F4337-A331-48A1-A58B-63226366E2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD9848C-9105-43AE-9CCC-4F3BEE036B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD9848C-9105-43AE-9CCC-4F3BEE036B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD9848C-9105-43AE-9CCC-4F3BEE036B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD9848C-9105-43AE-9CCC-4F3BEE036B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31FBC3ED-756C-4E58-A2FB-541F27195669}
+	EndGlobalSection
+EndGlobal
